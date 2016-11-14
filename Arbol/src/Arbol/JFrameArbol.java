@@ -30,10 +30,6 @@ public class JFrameArbol extends JFrame {
 	final static String nomfich = "Fich05.obj";
 	static ArrayList<Arbol> listaArboles = new ArrayList<Arbol>();
 
-
-	
-	
-
 	private JPanel contentPane;
 
 	/**
